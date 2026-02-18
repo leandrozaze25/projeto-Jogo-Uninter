@@ -1,8 +1,8 @@
 
 import pygame
 
-from code.const import WIN_WIDTH, WIN_HEIGHT
-from code.menu import Menu
+from code.Const import WIN_WIDTH, WIN_HEIGHT
+from code.Menu import Menu
 
 
 class Game:
